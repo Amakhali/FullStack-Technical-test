@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FullStack-Technical-test/static/css/main.f2284eb0.css",
-    "main.js": "/FullStack-Technical-test/static/js/main.05f2c547.js",
+    "main.css": "/FullStack-Technical-test/static/css/main.2066a670.css",
+    "main.js": "/FullStack-Technical-test/static/js/main.27e6fb94.js",
     "index.html": "/FullStack-Technical-test/index.html",
-    "main.f2284eb0.css.map": "/FullStack-Technical-test/static/css/main.f2284eb0.css.map",
-    "main.05f2c547.js.map": "/FullStack-Technical-test/static/js/main.05f2c547.js.map"
+    "main.2066a670.css.map": "/FullStack-Technical-test/static/css/main.2066a670.css.map",
+    "main.27e6fb94.js.map": "/FullStack-Technical-test/static/js/main.27e6fb94.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2284eb0.css",
-    "static/js/main.05f2c547.js"
+    "static/css/main.2066a670.css",
+    "static/js/main.27e6fb94.js"
   ]
 }
